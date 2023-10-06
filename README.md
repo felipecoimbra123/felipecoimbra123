@@ -3,6 +3,7 @@
 - 🌱 Estudando HTML, CSS, JavaScript e Python
 - 📫 Contate-me no email: felipe.2007coimbra@gmail.com
 - 😄 Pronouns: ele/dele
+- 🎮 Interesse em ingressar na área de jogos
 
   <div>
     <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=felipecoimbra123&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
