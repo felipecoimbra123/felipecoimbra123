@@ -1,4 +1,4 @@
-### Olá! Eu sou o Felipe Coimbra
+## Olá! Eu sou o Felipe Coimbra
 
 - 🌱 Estudando HTML, CSS, JavaScript e Python
 - 📫 Contate-me no email: felipe.2007coimbra@gmail.com
