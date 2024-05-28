@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Felipe Coimbra
 
-- 🌱 Estudando HTML, CSS, JavaScript e Python
+- 🌱 Estudando HTML, CSS e JavaScript
 - 📫 Contate-me no email: felipe.2007coimbra@gmail.com
 - 😄 Pronouns: ele/dele
 - 🎮 Interesse em ingressar na área de jogos
