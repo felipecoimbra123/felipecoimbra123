@@ -2,7 +2,6 @@
 
 - 🌱 Estudando HTML, CSS, JavaScript e MySQL
 - 📫 Contate-me no email: felipe.2007coimbra@gmail.com
-- 😄 Pronouns: ele/dele
 - 🎮 Interesse em ingressar na área de jogos
 
   <div>
