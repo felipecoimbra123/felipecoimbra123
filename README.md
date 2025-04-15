@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Felipe Coimbra 🧑‍💻
 
-- 🌱 Estudando HTML, CSS, JavaScript e MySQL
+- 🌱 Estudando HTML, CSS, JavaScript, MySQL e React Native
 - 📫 Contate-me no email: felipe.2007coimbra@gmail.com
-- 🎮 Interesse em ingressar na área de jogos
 
   <div>
     <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=felipecoimbra123&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
