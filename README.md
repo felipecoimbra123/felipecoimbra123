@@ -3,11 +3,6 @@
 - 🌱 Estudando HTML, CSS, JavaScript, MySQL e React Native
 - 📫 Contate-me no email: felipe.2007coimbra@gmail.com
 
-  <div>
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=felipecoimbra123&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecoimbra123&layout=compact&langs_count=16&theme=dark"/>
-  </div>
-
   <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
