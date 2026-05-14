@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Felipe Coimbra 🧑‍💻
 
-- 🌱 Estudando HTML, CSS, JavaScript, MySQL e React Native
+- 🌱 Atualmente estudando Python e Java
 - 📫 Contate-me no email: felipe.2007coimbra@gmail.com
 
   <div style="display: inline_block"><br>
