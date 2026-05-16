@@ -27,20 +27,10 @@ Atualmente, estou estudando principalmente **Python** e **Java**, com interesse 
 - Desenvolvimento Web
 
 ### 🎯 Objetivo
-Busco oportunidades de estágio ou posição júnior em desenvolvimento de software, onde eu possa aplicar e expandir meus conhecimentos que venho adquirindo ao longo dos anos.
-
-### 📊 GitHub Stats
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipecoimbra07&show_icons=true&theme=dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecoimbra07&layout=compact&theme=dark"/>
-</div>
+Busco oportunidades de estágio ou posição júnior em desenvolvimento de software e afins, onde eu possa aplicar e expandir meus conhecimentos que venho adquirindo ao longo dos anos e ao mesmo tempo aprender cada vez mais com os desafios do dia a dia.
 
 ### 📬 Contato
-<div align="center"> 
-  <a href="mailto:felipe.2007coimbra@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/felipecoimbra07/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
+<div> 
+  <a href="mailto:felipe.2007coimbra@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> ]
+  <a href="https://www.linkedin.com/in/felipecoimbra07/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
