@@ -27,7 +27,7 @@ Atualmente, estou estudando principalmente **Python** e **Java**, com interesse 
 - Desenvolvimento Web
 
 ### 🎯 Objetivo
-Busco oportunidades de estágio ou posição júnior em desenvolvimento de software e afins, onde eu possa aplicar e expandir meus conhecimentos que venho adquirindo ao longo dos anos e ao mesmo tempo aprender cada vez mais com os desafios do dia a dia.
+Busco oportunidades de estágio ou posição júnior em desenvolvimento de software e afins, para que eu possa aplicar e expandir meus conhecimentos que venho adquirindo ao longo dos anos e ao mesmo tempo aprender cada vez mais com os desafios do dia a dia.
 
 ### 📬 Contato
 <div> 
