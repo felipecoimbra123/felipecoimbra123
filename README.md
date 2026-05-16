@@ -3,35 +3,6 @@
 Sou um estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento de software.  
 Atualmente, estou estudando principalmente **Python** e **Java**, com interesse em desenvolvimento web e backend.
 
-### 🛠️ Tecnologias
-
-**Frontend**
-- HTML, CSS, JavaScript, Bootstrap
-
-**Backend**
-- Python, Java, Node.js
-
-**Banco de Dados**
-- MySQL
-
-**Design**
-- Figma
-
-### 📚 Em aprendizado
-- Python
-- Java
-- Desenvolvimento Web
-
-### 🎯 Objetivo
-Busco oportunidades de estágio ou posição júnior em desenvolvimento de software,  
-onde eu possa aplicar e expandir meus conhecimentos.
-
-### 📊 GitHub Stats
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipecoimbra07&show_icons=true&theme=dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecoimbra07&layout=compact&theme=dark"/>
-</div>
-
 ### 🚀 Tecnologias & Ferramentas
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40"
@@ -48,6 +19,20 @@ onde eu possa aplicar e expandir meus conhecimentos.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img align="center" alt="Python" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+</div>
+
+### 📚 Em aprendizado
+- Python
+- Java
+- Desenvolvimento Web
+
+### 🎯 Objetivo
+Busco oportunidades de estágio ou posição júnior em desenvolvimento de software, onde eu possa aplicar e expandir meus conhecimentos que venho adquirindo ao longo dos anos.
+
+### 📊 GitHub Stats
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipecoimbra07&show_icons=true&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecoimbra07&layout=compact&theme=dark"/>
 </div>
 
 ### 📬 Contato
