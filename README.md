@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=a1c0e6&width=435&lines=Ol%C3%A1%2C+sou+o+Felipe+Coimbra+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=a1c0e6&width=435&lines=Ol%C3%A1%2C+sou+o+Felipe+Coimbra+👨‍💻+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)
 
 Sou um estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento de software.  
 Atualmente, estou estudando principalmente **Python** e **Java**, com interesse em desenvolvimento web e backend.
